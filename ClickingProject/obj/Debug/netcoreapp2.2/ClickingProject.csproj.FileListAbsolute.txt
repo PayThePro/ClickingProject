@@ -1,0 +1,11 @@
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\bin\Debug\netcoreapp2.2\ClickingProject.deps.json
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\bin\Debug\netcoreapp2.2\ClickingProject.dll
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\bin\Debug\netcoreapp2.2\ClickingProject.pdb
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\obj\Debug\netcoreapp2.2\ClickingProject.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\obj\Debug\netcoreapp2.2\ClickingProject.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\obj\Debug\netcoreapp2.2\ClickingProject.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\obj\Debug\netcoreapp2.2\ClickingProject.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\obj\Debug\netcoreapp2.2\ClickingProject.dll
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\obj\Debug\netcoreapp2.2\ClickingProject.pdb
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\bin\Debug\netcoreapp2.2\ClickingProject.runtimeconfig.json
+C:\Users\Patrick\source\repos\ClickingProject\ClickingProject\bin\Debug\netcoreapp2.2\ClickingProject.runtimeconfig.dev.json

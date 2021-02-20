@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject>ClickingProject.Server</StartupObject>
+  </PropertyGroup>
+
+  <Import Project="..\SharedProject\SharedProject.projitems" Label="Shared" />
+
+</Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EIuPF7DQF+NLVnRDuQRFZaYbfZItkerunFRrRBEclBrEwb2Kd1c3cuOQrSjBGoTQ3ugP/w00bivpSEvMV6sWuQ==",
+  "dgSpecHash": "V7s6CTcsDr6cemzl2M0hypx7oAO7sO6UR1FA/UTlaFHbqBzPIxt0Sti9qXo/W5+H615LurF9Wc6d+KzxPY/oSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\Client\\ClientCMD.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

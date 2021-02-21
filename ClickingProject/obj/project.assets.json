@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\ClickingProject\\Server.csproj",
-      "projectName": "Server",
-      "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\ClickingProject\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\ClickingProject\\ServerCMD.csproj",
+      "projectName": "ServerCMD",
+      "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\ClickingProject\\ServerCMD.csproj",
       "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\ClickingProject\\obj\\",
       "projectStyle": "PackageReference",

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\Client\\Client.csproj",
-      "projectName": "Client",
-      "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\Client\\ClientCMD.csproj",
+      "projectName": "ClientCMD",
+      "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\Client\\ClientCMD.csproj",
       "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Patrick\\Documents\\GitHub\\ClickingProject\\Client\\obj\\",
       "projectStyle": "PackageReference",

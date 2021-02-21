@@ -1,14 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Net.Sockets;
+using System.Text;
+using System.Threading.Tasks;
 using static SharedProject.Types;
 
-namespace Client
+namespace ClientLibrary
 {
-    class Client
+    public class ClientLibrary
     {
         static NetworkStream stream;
 
-        /*static void Main(string[] args)
+        static void Main(string[] args)
         {
             Connect("127.0.0.1", 6060);
 
@@ -26,7 +30,7 @@ namespace Client
                 //Sends the stuff to the server
                 SendToServer(stream, inputType, x, y, length, mouseButton);
             }
-        }*/
+        }
 
         static void Connect(string serverName, int port)
         {

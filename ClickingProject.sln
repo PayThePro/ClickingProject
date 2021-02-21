@@ -3,17 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "ClickingProject\Server.csproj", "{389FDA26-9316-4C3A-8A21-D58B0516BB39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerCMD", "ClickingProject\ServerCMD.csproj", "{389FDA26-9316-4C3A-8A21-D58B0516BB39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{24DB4735-87AD-43FE-B284-FCB1AD2E8B2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientCMD", "Client\ClientCMD.csproj", "{24DB4735-87AD-43FE-B284-FCB1AD2E8B2D}"
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "SharedProject\SharedProject.shproj", "{87B3063C-D81E-4967-8FC9-2BC6CD532FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLibrary", "ClientLibrary\ClientLibrary.csproj", "{9595B05A-3305-4663-AB02-57363A810DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerLibrary", "ServerLibrary\ServerLibrary.csproj", "{35E3CB96-9420-4BFC-8409-48C0E69CF631}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Old CMD stuff", "Old CMD stuff", "{0AA01D29-0867-4D1A-BD3C-706B3BA41F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientForms", "ClientForms\ClientForms.csproj", "{10CE6C42-8ED3-4579-A945-E1B1ADA7D9C1}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		SharedProject\SharedProject.projitems*{24db4735-87ad-43fe-b284-fcb1ad2e8b2d}*SharedItemsImports = 5
+		SharedProject\SharedProject.projitems*{35e3cb96-9420-4bfc-8409-48c0e69cf631}*SharedItemsImports = 4
 		SharedProject\SharedProject.projitems*{389fda26-9316-4c3a-8a21-d58b0516bb39}*SharedItemsImports = 5
 		SharedProject\SharedProject.projitems*{87b3063c-d81e-4967-8fc9-2bc6cd532feb}*SharedItemsImports = 13
+		SharedProject\SharedProject.projitems*{9595b05a-3305-4663-ab02-57363a810da1}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,9 +38,25 @@ Global
 		{24DB4735-87AD-43FE-B284-FCB1AD2E8B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24DB4735-87AD-43FE-B284-FCB1AD2E8B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24DB4735-87AD-43FE-B284-FCB1AD2E8B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9595B05A-3305-4663-AB02-57363A810DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9595B05A-3305-4663-AB02-57363A810DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9595B05A-3305-4663-AB02-57363A810DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9595B05A-3305-4663-AB02-57363A810DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E3CB96-9420-4BFC-8409-48C0E69CF631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E3CB96-9420-4BFC-8409-48C0E69CF631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E3CB96-9420-4BFC-8409-48C0E69CF631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E3CB96-9420-4BFC-8409-48C0E69CF631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CE6C42-8ED3-4579-A945-E1B1ADA7D9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CE6C42-8ED3-4579-A945-E1B1ADA7D9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CE6C42-8ED3-4579-A945-E1B1ADA7D9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CE6C42-8ED3-4579-A945-E1B1ADA7D9C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{389FDA26-9316-4C3A-8A21-D58B0516BB39} = {0AA01D29-0867-4D1A-BD3C-706B3BA41F4E}
+		{24DB4735-87AD-43FE-B284-FCB1AD2E8B2D} = {0AA01D29-0867-4D1A-BD3C-706B3BA41F4E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6938BAB4-91E1-4491-9B60-5C0F3011104E}
